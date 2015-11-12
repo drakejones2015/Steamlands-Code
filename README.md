@@ -1,2 +1,2 @@
 # Steamlands-Code
-The SOurce Code for steamlands game
+The Source Code for steamlands game
